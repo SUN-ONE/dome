@@ -1,0 +1,27 @@
+body{
+	
+	width:600px;
+	height:650px;
+}
+#left{
+	float:left;
+	width:100px;
+	background:blue;
+	height:650px;
+	text-align:center;
+	
+	color:white;
+	overflow:hidden;
+	
+}
+#middle{
+	width:20px;
+	float:right;
+}
+#right{
+	float:right;
+width:480px;
+height:650px;
+
+
+}
